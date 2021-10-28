@@ -22,7 +22,7 @@ var Rounding = function() {
  };
 
  
-//testtttt
+//testtttt gggggg
 function checkPalindrome() {
 
     let  string = document.querySelector('#StringToCheck').value;
