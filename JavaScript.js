@@ -21,8 +21,8 @@ var Rounding = function() {
     
  };
 
- // program to check if the string is palindrome or not fggffggf
-
+ 
+//testtttt
 function checkPalindrome() {
 
     let  string = document.querySelector('#StringToCheck').value;
